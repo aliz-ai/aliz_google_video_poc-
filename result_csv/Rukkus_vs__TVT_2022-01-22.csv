@@ -1,0 +1,13 @@
+,true_label,pred,confidence,label
+2,164.0,163.0,0.9999163,true positive
+3,177.0,,,false negative
+4,211.0,210.0,0.9999722,true positive
+5,247.0,248.0,0.9989089,true positive
+7,307.0,305.0,0.9999441,true positive
+8,334.0,335.0,0.9989361,true positive
+10,400.0,399.0,0.99904567,true positive
+12,433.0,432.0,0.9982901,true positive
+22,631.0,,,false negative
+24,677.0,678.0,0.9981481,true positive
+29,768.0,767.0,0.9998067,true positive
+30,837.0,835.0,0.9997081,true positive
